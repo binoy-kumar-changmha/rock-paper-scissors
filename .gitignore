@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Node dependencies (if you ever use Node.js for future projects)
+node_modules/
+
+# Logs (if any)
+*.log
+
+# Environment variables (if you ever add API keys)
+.env

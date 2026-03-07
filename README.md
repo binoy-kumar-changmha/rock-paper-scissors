@@ -1,8 +1,6 @@
 # Rock Paper Scissors Game
 
-## Live Demo
-Try it here:  
-https://rock-paper-scissors-changmha.netlify.app/
+🔗 Live Demo: https://rock-paper-scissors-changmha.netlify.app/
 
 ## Description
 This is a simple and interactive Rock Paper Scissors browser game built with HTML, CSS, and JavaScript.  
